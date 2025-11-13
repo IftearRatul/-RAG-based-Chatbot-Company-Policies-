@@ -1,4 +1,4 @@
-# -RAG-based-Chatbot-Company-Policies-
+# RAG based Chatbot Company Policies
 # Company Policy Chatbot
 
 This is a document-based question-answer chatbot for company policies. It allows users to upload or reference policy documents (PDF/TXT) and ask questions in natural language. The system finds the most relevant content using semantic search and answers each query using state-of-the-art LLM models (Groq API).
